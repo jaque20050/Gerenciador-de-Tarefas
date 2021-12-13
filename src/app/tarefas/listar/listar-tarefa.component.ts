@@ -32,3 +32,4 @@ export class ListarTarefaComponent implements OnInit {
     this.tarefas = this.listarTodos();
   }
 }
+//
